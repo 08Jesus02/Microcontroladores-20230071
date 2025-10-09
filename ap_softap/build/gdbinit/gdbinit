@@ -1,0 +1,2 @@
+source C:/ESP32/ap_softap/build/gdbinit/symbols
+source C:/ESP32/ap_softap/build/gdbinit/connect
