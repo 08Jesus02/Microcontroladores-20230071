@@ -1,0 +1,2 @@
+source C:/ESP32/chip_info/build/gdbinit/symbols
+source C:/ESP32/chip_info/build/gdbinit/connect
